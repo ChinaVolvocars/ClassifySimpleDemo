@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="InflateParams">
+        <ignore path="src/com/example/demo/ListGridActivity.java" />
+        <ignore path="src/com/example/demo/adapter/ClassifyMoreAdapter.java" />
+        <ignore path="src/com/example/demo/adapter/GoodsCityAdapter.java" />
+        <ignore path="src/com/example/demo/fragment/ProTypeFragment.java" />
+        <ignore path="src/com/example/demo/view/ScrollGridActivity.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/com/example/demo/adapter/GridViewAdapter.java" />
+    </issue>
+    <issue id="ResourceAsColor">
+        <ignore path="src/com/example/demo/adapter/ClassifyMainAdapter.java" />
+        <ignore path="src/com/example/demo/adapter/SearchMainAdapter.java" />
+    </issue>
+</lint>

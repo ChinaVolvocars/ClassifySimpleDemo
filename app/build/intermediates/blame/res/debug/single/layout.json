@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandable_gridview.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\activity_expandable_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_txt.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_gridview_txt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_classify.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\activity_classify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_layout.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrollgrid.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\activity_scrollgrid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_layout.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_group_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_classify_morelist.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_classify_morelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandable_listview.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\activity_expandable_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pro_type.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\fragment_pro_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid_child_layout.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_grid_child_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_child_layout.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_child_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_group_layout.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_gridview_group_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_classify_mainlist.xml",
+        "source": "C:\\Users\\Tiger\\Desktop\\ClassifySimpleDemo\\app\\src\\main\\res\\layout\\item_classify_mainlist.xml"
+    }
+]

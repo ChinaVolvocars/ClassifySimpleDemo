@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="#ffffece3"
+        android:gravity="center"
+        android:text="二级列表"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/listlist"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="#fe123456"
+        android:text="ListListView"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/listgrid"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="#fe987654"
+        android:text="ListGridView"
+        android:textColor="#ffffff" />
+    
+    <Button
+        android:id="@+id/expandableListView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="#fe98ff54"
+        android:text="ExpandableListView"
+        android:textColor="#ffffff" />
+    
+    <Button
+        android:id="@+id/expandableGridView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="#fe923f54"
+        android:text="ExpandableListView"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

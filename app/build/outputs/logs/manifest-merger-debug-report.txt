@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:11:5-33:19
+	android:label
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.demo.view.MainActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:17:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.demo.view.ScrollGridActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:25:19-74
+activity#com.example.demo.view.ListListActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:27:19-72
+activity#com.example.demo.view.ExpandableListViewActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:29:9-30:20
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:29:19-82
+activity#com.example.demo.view.ExpandableGridViewActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:31:19-82
