@@ -11,13 +11,14 @@ import com.example.demo.adapter.ExpandableListAdapter;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
 import android.widget.Toast;
 
-public class ExpandableListViewActivity extends Activity {
+public class ExpandableListViewActivity extends AppCompatActivity {
 
 	private ExpandableListView expandableListView;
 

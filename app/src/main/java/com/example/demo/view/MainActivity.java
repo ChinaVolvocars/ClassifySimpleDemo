@@ -2,14 +2,14 @@ package com.example.demo.view;
 
 import com.example.demo.R;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
 
 	private Button listlistview, listgridview, expandableListView,
 			expandableGridView;
@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				Intent intent = new Intent();
-				intent.setClass(MainActivity.this, ListListActivity.class);
+				intent.setClass(MainActivity.this, RecyclerViewListActivity.class);
 				startActivity(intent);
 			}
 		});
