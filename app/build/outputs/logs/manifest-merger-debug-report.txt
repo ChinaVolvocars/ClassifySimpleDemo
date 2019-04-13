@@ -1,69 +1,171 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\010f10aaff3600871161c9f6a3b94f40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a9574323ec02fbf9597c60a6b35a7916\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c1d97c3cbd1d005c771f693ee34f72c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\957834e6832f38d525edc62f5abb426b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bdbc18d6aa0e2a5861153eeab8261890\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0c92e5e158bfd33cb3b3aae8ff21e7e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cf2fff746c3e186f6f1070924459c3d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c51ef05b9c10487c47ad88f4a33b7394\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fb8fb3db255b3d09f855e427e20bd5c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5276f958b5bb083c8d33be087f820247\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\86eee9db397853ea83496ef3845314b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8e3aea1cc330b2bb1cc9b103549f3475\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fc1f3517bf1745d4b131c9e23adc510f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\86986bdbe0e723ecaa562dad1a4aa03f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a8b24d50ead63fc62f29b6b7f15ed074\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a458bd8d6241497103279f676c43da20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\78d29057b88b59856128910b12d0afb0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4979544e734fcc3a478be630b7c1951\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\961b63e3257a0f6844aac331dbacc2a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\08a139cc978d1da8fa1b37de4a01b2c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2b7b666be9bf8fba70067fa5e6af5e26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\03804f1d926b515a3d69825add40f227\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\14ca69d25584eb39ff18eaa3e8f05512\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\694d4f462e7b668a37953c960c3ff742\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ff4b848c6d4ef4543bfc27e8290ba697\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f1b8be17e26ad48c3273174cbcb41aed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a3983f3e8fd24b53ec415259de753366\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\794f6cfa9173332204a775665b3ab5a4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:3:5-31
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:3:3-29
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:6:3-24:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a9574323ec02fbf9597c60a6b35a7916\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a9574323ec02fbf9597c60a6b35a7916\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\78d29057b88b59856128910b12d0afb0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\78d29057b88b59856128910b12d0afb0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4979544e734fcc3a478be630b7c1951\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4979544e734fcc3a478be630b7c1951\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\78d29057b88b59856128910b12d0afb0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:9:5-37
+	android:icon
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:8:5-41
+	android:allowBackup
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:7:5-31
+	android:theme
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:10:5-55
+activity#com.example.demo.view.MainActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:11:5-19:16
+	android:label
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:13:7-39
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:12:7-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:14:7-18:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:15:9-61
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:15:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:17:19-66
+activity#com.example.demo.view.ScrollGridActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:20:15-70
+activity#com.example.demo.view.RecyclerViewListActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:21:15-76
+activity#com.example.demo.view.ExpandableListViewActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:22:15-78
+activity#com.example.demo.view.ExpandableGridViewActivity
+ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:23:15-78
 uses-sdk
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\010f10aaff3600871161c9f6a3b94f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\010f10aaff3600871161c9f6a3b94f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a9574323ec02fbf9597c60a6b35a7916\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a9574323ec02fbf9597c60a6b35a7916\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c1d97c3cbd1d005c771f693ee34f72c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c1d97c3cbd1d005c771f693ee34f72c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\957834e6832f38d525edc62f5abb426b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\957834e6832f38d525edc62f5abb426b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bdbc18d6aa0e2a5861153eeab8261890\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bdbc18d6aa0e2a5861153eeab8261890\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0c92e5e158bfd33cb3b3aae8ff21e7e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0c92e5e158bfd33cb3b3aae8ff21e7e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cf2fff746c3e186f6f1070924459c3d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cf2fff746c3e186f6f1070924459c3d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c51ef05b9c10487c47ad88f4a33b7394\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c51ef05b9c10487c47ad88f4a33b7394\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fb8fb3db255b3d09f855e427e20bd5c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fb8fb3db255b3d09f855e427e20bd5c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5276f958b5bb083c8d33be087f820247\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5276f958b5bb083c8d33be087f820247\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\86eee9db397853ea83496ef3845314b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\86eee9db397853ea83496ef3845314b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8e3aea1cc330b2bb1cc9b103549f3475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8e3aea1cc330b2bb1cc9b103549f3475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fc1f3517bf1745d4b131c9e23adc510f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fc1f3517bf1745d4b131c9e23adc510f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\86986bdbe0e723ecaa562dad1a4aa03f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\86986bdbe0e723ecaa562dad1a4aa03f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a8b24d50ead63fc62f29b6b7f15ed074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a8b24d50ead63fc62f29b6b7f15ed074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a458bd8d6241497103279f676c43da20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a458bd8d6241497103279f676c43da20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\78d29057b88b59856128910b12d0afb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\78d29057b88b59856128910b12d0afb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4979544e734fcc3a478be630b7c1951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4979544e734fcc3a478be630b7c1951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\961b63e3257a0f6844aac331dbacc2a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\961b63e3257a0f6844aac331dbacc2a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\08a139cc978d1da8fa1b37de4a01b2c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\08a139cc978d1da8fa1b37de4a01b2c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2b7b666be9bf8fba70067fa5e6af5e26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2b7b666be9bf8fba70067fa5e6af5e26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\03804f1d926b515a3d69825add40f227\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\03804f1d926b515a3d69825add40f227\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\14ca69d25584eb39ff18eaa3e8f05512\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\14ca69d25584eb39ff18eaa3e8f05512\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\694d4f462e7b668a37953c960c3ff742\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\694d4f462e7b668a37953c960c3ff742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ff4b848c6d4ef4543bfc27e8290ba697\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ff4b848c6d4ef4543bfc27e8290ba697\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f1b8be17e26ad48c3273174cbcb41aed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f1b8be17e26ad48c3273174cbcb41aed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a3983f3e8fd24b53ec415259de753366\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a3983f3e8fd24b53ec415259de753366\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\794f6cfa9173332204a775665b3ab5a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\794f6cfa9173332204a775665b3ab5a4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:8:9-35
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml
-application
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:11:5-33:19
-	android:label
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:14:9-41
-	android:allowBackup
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:12:9-35
-	android:icon
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:13:9-45
-	android:theme
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:15:9-40
-activity#com.example.demo.view.MainActivity
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:16:9-24:20
-	android:label
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:18:13-45
-	android:name
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:17:13-62
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:19:13-23:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:20:17-69
-	android:name
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:20:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:22:17-77
-	android:name
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:22:27-74
-activity#com.example.demo.view.ScrollGridActivity
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:25:9-26:20
-	android:name
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:25:19-74
-activity#com.example.demo.view.ListListActivity
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:27:9-28:20
-	android:name
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:27:19-72
-activity#com.example.demo.view.ExpandableListViewActivity
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:29:9-30:20
-	android:name
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:29:19-82
-activity#com.example.demo.view.ExpandableGridViewActivity
-ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:31:9-32:20
-	android:name
-		ADDED from C:\Users\Tiger\Desktop\ClassifySimpleDemo\app\src\main\AndroidManifest.xml:31:19-82
